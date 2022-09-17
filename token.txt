@@ -10,3 +10,4 @@ Guille : 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
 >>>>>>> 9245933879d28955866dbe13c3c85a7bc99cbbbf
 token de leo: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
 token mathi: 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
+token Daniel: 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
